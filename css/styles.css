@@ -20,6 +20,7 @@ h1{
   font-size: 3.8rem;
   font-weight: 300;
   margin: 1.5rem 0;
+  user-select: none;
 }
 
 h2{
@@ -104,6 +105,7 @@ p{
   animation-name: float;
   animation-iteration-count: infinite;
   animation-duration: 5s;
+  -webkit-user-drag: none;
 }
 
 @keyframes float {
