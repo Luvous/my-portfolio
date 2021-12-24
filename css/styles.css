@@ -307,7 +307,7 @@ p{
     border-bottom: 55px solid var(--white);
     height: 5.7rem;
     transition: all .2s ease-out;
-    margin: 1.5rem 0 0;
+    margin: 1.5rem 2rem 1rem;
   }
 
   .project-description-card{
